@@ -9,7 +9,9 @@ ROS-based Manipulator
 #### 1. ROS
 
 Open a terminal and execute following commands 
+
 1.1 sudo chmod +x ros_installation.sh
+
 1.2 ./ros_installation.sh
 
 #### 2. ESP-IDF
