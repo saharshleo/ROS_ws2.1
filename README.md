@@ -2,18 +2,16 @@
 
 ROS-based Manipulator
 
-###Prerequisite: Ubuntu 16.04
+### Prerequisite: Ubuntu 16.04
 
-###Installation
+### Installation
 
-####1. ROS
+#### 1. ROS
 
 Open a terminal and execute following commands 
-
 1.1 sudo chmod +x ros_installation.sh
-
 1.2 ./ros_installation.sh
 
-####2. ESP-IDF
+#### 2. ESP-IDF
 
 Coming soon
