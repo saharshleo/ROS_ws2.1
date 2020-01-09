@@ -8,7 +8,7 @@ ROS-based Manipulator
 
 #### 1. ROS
 
-Open a terminal and execute following commands 
+Open a terminal and execute following commands inside ROS_ws2.1 
 
 1.1 sudo chmod +x ros_installation.sh
 
